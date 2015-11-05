@@ -3,3 +3,4 @@
 - [ ] Pizza
 - [ ] Programming for Android
 - [ ] blue
+- [ ] new stuff added
