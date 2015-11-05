@@ -1,0 +1,6 @@
+- [ ] Igor Kuna
+- [ ] Slowenia
+- [ ] Pizza
+- [ ] Programming for Android
+- [ ] blue
+- [ ] new stuff added
